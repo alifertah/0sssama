@@ -9,7 +9,7 @@ I've been coding since I was 11 years old, and since then my passion for code ha
 * 🌍  I'm based in Khouribga
 * ✉️  You can contact me at [labrahmioussama@gmail.com](mailto:labrahmioussama@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I love keyboards, 1337, and my girlfriend.
+* ⚡  I love keyboards, and 1337.
 
 <a href="https://www.twitter.com/0samaTweets" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/0samaTweets?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
